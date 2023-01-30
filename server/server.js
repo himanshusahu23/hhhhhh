@@ -15,7 +15,7 @@ app.use("/api/users",userRouter);
 app.use("/api/blogs",blogRouter);
 
 app.use("/api",(req,res,next) =>{
-    res.send("hello")
+    res.send("hello iamops")
 })
 
 //define port
