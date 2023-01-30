@@ -1,5 +1,5 @@
 # Blog-App-using-MERN-stack
-Himanshu Sahu
+Himanshu Sahu Jii
 Blog App 
 
 # Functionalities 
